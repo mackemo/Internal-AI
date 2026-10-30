@@ -1,5 +1,6 @@
 # Internal-AI
 
+The bones of a project I created for my organization. This is a very simple start and draft that is very much still in progress but once completed, is to showcase an Internal AI I have previously built for another org.
 
 ## Description
 
